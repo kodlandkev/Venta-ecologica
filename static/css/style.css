@@ -3,7 +3,7 @@
     --primary-green: #085656; /* Azul oscuro */
     --accent-green: #2B7E7E;  /* Azul medio */
     --light-bg: aliceblue;    /* Beige muy suave */
-    --white: #ffffff;
+    --white: #9B92B8;
     --text-dark: #1f2937;
     --text-gray: #4b5563;
     --border-color: #e5e7eb;
@@ -141,7 +141,7 @@ header {
 /* --- HERO SECTION --- */
 #hero {
     /* Fondo con fallback de color por si la imagen no carga */
-    background: linear-gradient(rgba(26, 77, 46, 0.7), rgba(26, 77, 46, 0.5)), url('../img/arboles.jpg'), #1a4d2e;
+    background: linear-gradient(rgba(26, 77, 46, 0.7), rgba(26, 77, 46, 0.5)), url('https://wallpapers.com/images/high/water-background-6r0lvfxomk2l0rcn.webp'), #1a4d2e;
     background-size: cover;
     background-position: center;
     min-height: 80vh;
@@ -373,7 +373,7 @@ input:focus, textarea:focus {
 
 /* --- FOOTER --- */
 footer {
-    background-color: #153a25;
+    background-color: #1D3843;
     color: #d1d5db;
     padding: 60px 0 20px;
 }
@@ -597,4 +597,5 @@ footer {
     .cart-sidebar { overflow-y: scroll; }
 
 }
+
 
