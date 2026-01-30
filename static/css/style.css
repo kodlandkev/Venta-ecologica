@@ -3,7 +3,7 @@
     --primary-green: #085656; /* Azul oscuro */
     --accent-green: #2B7E7E;  /* Azul medio */
     --light-bg: aliceblue;    /* Beige muy suave */
-    --white: #DAD7DE;
+    --white: #ACACAC;
     --text-dark: #1f2937;
     --text-gray: #4b5563;
     --border-color: #e5e7eb;
@@ -597,6 +597,7 @@ footer {
     .cart-sidebar { overflow-y: scroll; }
 
 }
+
 
 
 
